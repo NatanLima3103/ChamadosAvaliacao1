@@ -1,0 +1,24 @@
+### Listar todos
+GET http://localhost:5000/api/chamado/listar
+
+### Cadastrar
+POST http://localhost:5000/api/chamado/cadastrar
+Content-Type: application/json
+
+{
+  "titulo":"Teste",
+  "descricao":"Descricao",
+  "status":"Aberto"
+}
+
+### Alterar
+PATCH http://localhost:5000/api/chamado/alterar
+Content-Type: application/json
+
+{ "id": 1 }
+
+### Não resolvidos
+GET http://localhost:5000/api/chamado/naoresolvido
+
+### Resolvidos
+GET http://localhost:5000/api/chamado/resolvidos
