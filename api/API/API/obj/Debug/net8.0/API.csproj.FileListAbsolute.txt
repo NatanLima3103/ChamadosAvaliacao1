@@ -120,3 +120,10 @@ C:\A1ChamadosNatan\Chamados\api\API\API\obj\Debug\net8.0\refint\API.dll
 C:\A1ChamadosNatan\Chamados\api\API\API\obj\Debug\net8.0\API.pdb
 C:\A1ChamadosNatan\Chamados\api\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\A1ChamadosNatan\Chamados\api\API\API\obj\Debug\net8.0\ref\API.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\obj\Debug\net8.0\API.sourcelink.json
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\A1ChamadosNatan\Chamados\api\API\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

@@ -7,7 +7,7 @@ builder.Services.AddDbContext<AppDataContext>();
 
 var app = builder.Build();
 
-app.MapGet("/", () => "COLOQUE O SEU NOME");
+app.MapGet("/", () => "NatanJonatanDeLima");
 
 //ENDPOINTS DE TAREFA
 //GET: http://localhost:5273/api/chamado/listar
@@ -17,7 +17,7 @@ app.MapGet("/api/chamado/listar", ([FromServices] AppDataContext ctx) =>
     {
         return Results.Ok(ctx.Chamados.ToList());
     }
-    return Results.NotFound("Nenhum chamado encontrada");
+    return Results.NotFound("Nenhum chamado encontrado no momento");
 });
 
 //POST: http://localhost:5273/api/chamado/cadastrar

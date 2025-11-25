@@ -1,5 +1,5 @@
-import React from 'react'
-import { Routes, Route, Link } from 'react-router-dom'
+import React from 'react';
+import { Routes, Route, Link } from 'react-router-dom';
 import Listar from './pages/chamado/listar'
 import Cadastrar from './pages/chamado/cadastrar'
 import Alterar from './pages/chamado/alterar'
@@ -26,5 +26,5 @@ export default function App() {
         <Route path="/chamado/naoresolvido" element={<NaoResolvidos />} />
       </Routes>
     </div>
-  )
+  );
 }
